@@ -72,10 +72,5 @@ Feel free to reach out if you'd like to collaborate or discuss interesting ideas
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
 
 Thank you for visiting my GitHub Portfolio! I look forward to connecting and collaborating on exciting projects. 😊
