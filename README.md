@@ -67,10 +67,9 @@ A dynamic blogging platform with features like real-time updates, an admin dashb
 Feel free to reach out if you'd like to collaborate or discuss interesting ideas. You can contact me at:
 
 - 📧 **Email**: [kyadushree47@gmail.com](mailto:kyadushree47@gmail.com)
-- 🔗 **LinkedIn**: [linkedin.com/in/yadushree-k](https://www.linkedin.com/in/yadushree)
+- 🔗 **LinkedIn**: [linkedin.com/in/yadushree](https://www.linkedin.com/in/yadushree)
 - 🌍 **GitHub**: [github.com/Yadushree-k9898](https://github.com/Yadushree-k9898)
 
 ---
-
 
 Thank you for visiting my GitHub Portfolio! I look forward to connecting and collaborating on exciting projects. 😊
