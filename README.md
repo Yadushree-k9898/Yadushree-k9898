@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kyadushree47@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18uXooAoVDM-sT0hXI3FgtNKFCXwJ9lN6/view?usp=drivesdk](https://drive.google.com/file/d/18uXooAoVDM-sT0hXI3FgtNKFCXwJ9lN6/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18uXooAoVDM-sT0hXI3FgtNKFCXwJ9lN6/view?usp=drivesdk)
 
 - ⚡ Fun fact **I'm a huge web series buff—binge-watching stories keeps my creativity alive!**
 
