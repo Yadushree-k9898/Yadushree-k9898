@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data structure and algorithms, Reactjs , Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://verdant-salamander-d09708.netlify.app](https://verdant-salamander-d09708.netlify.app)
+- 👨‍💻 All of my projects are available at https://yadushree.netlify.app/
 
 - 💬 Ask me about **react, JavaScript, python**
 
