@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kyadushree47@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15AkJx3-t1tVqxVH1bvVMS651DLx59L7B/view](https://drive.google.com/file/d/15AkJx3-t1tVqxVH1bvVMS651DLx59L7B/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15AkJx3-t1tVqxVH1bvVMS651DLx59L7B/view](Yadushree_K_Resume)
 
 - ⚡ Fun fact **🌐 I can explain CORS errors better than I can explain what I do to my relatives.**
 
