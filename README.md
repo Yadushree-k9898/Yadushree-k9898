@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **FastAPI, Nextjs and DSA Python**
 
-- 👨‍💻 All of my projects are available at [https://project-4lbk.vercel.app/](https://project-4lbk.vercel.app/)
+- 👨‍💻 All of my projects are available at [My_Portfolio](https://project-4lbk.vercel.app/)
 
 - 💬 Ask me about **React, Redux Toolkit, FastAPI, Python**
 
