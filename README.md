@@ -1,99 +1,18 @@
-<h1 align="center">Hi, I'm Yadushree K 👋</h1>
+# 💫 About Me:
+I'm a Full-Stack Software Engineer passionate about building real-world products and AI-powered applications. I have hands-on experience developing frontend and backend systems, designing REST APIs, integrating databases, and building AI-driven features using LLMs and automation workflows.<br><br>My technical experience includes JavaScript, React, Next.js, Python, FastAPI, PostgreSQL, Redis, Docker, and AWS. I've worked on product development involving AI integrations, voice-based applications, backend services, and production deployments.<br><br>I enjoy taking ownership of problems end to end — understanding requirements, designing solutions, writing code, debugging, and improving application performance and reliability. I'm particularly interested in building scalable products, understanding system architecture, and working on challenging engineering problems.<br><br>I'm looking to grow as a Full-Stack / AI Engineer, contribute to meaningful products, and continuously deepen my engineering skills.
 
-<p align="center">
-  <strong>Full Stack Software Engineer | AI & Backend Development</strong>
-</p>
 
-<p align="center">
-  I build web applications, APIs, and AI-powered systems using JavaScript, React, Next.js, Python, FastAPI, and PostgreSQL.
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/paraveilll/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yadushree/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/KYadushree) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kyadushree47@gmail.com) 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yadushree/">LinkedIn</a> •
-  <a href="https://project-4lbk.vercel.app/">Portfolio</a> •
-  <a href="mailto:kyadushree47@gmail.com">Email</a>
-</p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Yadushree-k9898&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Yadushree-k9898&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yadushree-k9898&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Yadushree-k9898&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👩‍💻 About Me
-
-* 💻 Full Stack Software Engineer focused on frontend, backend, APIs, and databases
-* ⚛️ Build applications with **React, Next.js, JavaScript, Python, and FastAPI**
-* 🤖 Interested in **AI engineering, LLM applications, RAG, and intelligent developer tools**
-* 🗄️ Work with **PostgreSQL, Supabase, Redis, and vector databases**
-* 🐳 Comfortable with **Docker, Git, REST APIs, and cloud deployments**
-* 🧠 Currently strengthening **system design, backend architecture, AI engineering, and DSA**
-* 🎓 B.E. in Computer Science & Engineering
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-`JavaScript` `React` `Next.js` `HTML` `CSS` `Tailwind CSS` `Redux`
-
-### Backend
-
-`Python` `FastAPI` `Node.js` `REST APIs`
-
-### Databases & Infrastructure
-
-`PostgreSQL` `Supabase` `MongoDB` `MySQL` `Redis` `Docker`
-
-### AI / ML
-
-`LLMs` `RAG` `Gemini` `OpenAI` `Sentence Transformers` `Vector Databases`
-
-### Tools
-
-`Git` `GitHub` `Postman` `VS Code`
-
----
-
-## 🚀 Featured Projects
-
-### 📄 DocuMentorAI
-
-An AI-powered document assistant for interacting with and extracting information from documents.
-
-**Tech:** Next.js · FastAPI · Gemini · Sentence Transformers · Supabase · PostgreSQL
-
-🔗 **[Live Demo](https://docu-mentor-ai.vercel.app/)**
-💻 **[Source Code](https://github.com/Yadushree-k9898/DocuMentorAI)**
-
----
-
-### 📊 AI Resume Analyzer
-
-An AI-powered application designed to analyze resumes and provide useful insights.
-
-**Tech:** Python · AI/LLMs · Web Application
-
-💻 **[Source Code](https://github.com/Yadushree-k9898/ai-resume-analyzer)**
-
----
-
-## 📚 Currently Learning
-
-* System Design & Backend Architecture
-* AI Engineering & LLM Applications
-* RAG & Vector Databases
-* APIs, Authentication & Security
-* Redis & Distributed Systems
-* Data Structures & Algorithms
-
----
-
-## 🤝 Let's Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/yadushree/">LinkedIn</a> •
-  <a href="https://project-4lbk.vercel.app/">Portfolio</a> •
-  <a href="mailto:kyadushree47@gmail.com">Email</a>
-</p>
-
-<p align="center">
-  <i>Building, learning, and improving one project at a time.</i>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
